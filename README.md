@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Destruction</title>
+  <title>DESTRUCTION</title>
 
   <style>
     body {
@@ -15,13 +15,13 @@
     }
 
     header {
-      padding: 50px 20px;
+      padding: 70px 20px;
       background: linear-gradient(135deg, #ff0000, #550000);
     }
 
     h1 {
       font-size: 50px;
-      margin: 0;
+      margin: 0 0 15px;
     }
 
     p {
@@ -45,7 +45,7 @@
     }
 
     section {
-      padding: 40px 20px;
+      padding: 50px 20px;
     }
   </style>
 </head>

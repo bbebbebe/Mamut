@@ -55,10 +55,17 @@
   <header>
     <h1>DESTRUCTION</h1>
     <p>Benim ilk web sitem 🔥</p>
-    <a class="https://sites.google.com/view/trksatnellerindenpmebirliigi/ana-sayfa
+
+    <a
+      class="button"
+      href="https://sites.google.com/view/trksatnellerindenpmebirliigi/ana-sayfa"
+      target="_blank"
+    >
+      Siteye Gir
+    </a>
   </header>
 
-  <section id="hakkinda">
+  <section>
     <h2>Hakkında</h2>
     <p>Bu site tamamen kendi yaptığım bir projedir.</p>
   </section>

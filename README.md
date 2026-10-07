@@ -55,7 +55,7 @@
   <header>
     <h1>DESTRUCTION</h1>
     <p>Benim ilk web sitem 🔥</p>
-    <a class="button" href="#hakkinda">Siteye Gir</a>
+    <a class="https://sites.google.com/view/trksatnellerindenpmebirliigi/ana-sayfa
   </header>
 
   <section id="hakkinda">
